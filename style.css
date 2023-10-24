@@ -1,0 +1,34 @@
+body {
+	background-color: darkgrey;
+}
+
+
+nav {
+	display: flex;
+	width: 100dvw;
+}
+
+nav > * {
+	width: 50dvw;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+1080p = 1920 wide and 1080 heigh 
+720p = 1280 wide and 720 high 
+2160p = 3840 wide and 2160p high 
+*/
+@media screen and (min-width: 1000px)  {
+	body {
+		background-color: thistle;
+	}
+}
