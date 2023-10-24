@@ -26,3 +26,6 @@ Lesson goals:
 6. Run `git commit -m "Some message here"`
 7. Run `git push origin branchNameBlahBlah`
 
+Read more of this cheatsheet for more git info:
+
+- [Cool git cheatsheet from GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
